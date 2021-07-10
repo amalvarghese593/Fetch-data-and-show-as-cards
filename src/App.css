@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.btn {
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+  width: 100px;
+  /* z-index: 1; */
+}
+.btn:hover {
+  cursor: pointer;
+}
+.mdl {
+  padding: 20px;
+  margin: 10px;
+}
+
+.opn {
+  padding: 20px;
+  margin: 10px;
+  width: 200px;
+  background-color: brown;
+  /* z-index: 2; */
+}
